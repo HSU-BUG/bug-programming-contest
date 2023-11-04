@@ -9,7 +9,7 @@
 - 2등 : 김*혁
 - 3등 : 최*연
 
-![image](https://github.com/HSU-CSE/hsupc-2023-1/assets/97784561/68f6b838-3ae1-46a0-9055-6172a23363f8)
+![image](/assets/image.png)
 
 
 ---
