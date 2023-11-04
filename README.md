@@ -1,5 +1,12 @@
 # BUG X Com:BE 프로그래밍 경진대회
+
+### [문제지](docs/문제지.pdf)
+### [에디토리얼](docs/에디토리얼.pdf)
+
 ![image](https://github.com/HSU-CSE/hsupc-2023-1/assets/97784561/68f6b838-3ae1-46a0-9055-6172a23363f8)
+
+
+---
 
 # 대회 규칙
 
